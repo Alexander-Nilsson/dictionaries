@@ -1,0 +1,861 @@
+{
+  "languages": [
+    {
+      "name_en": "Arabic",
+      "name_native": "اللغة العربية",
+      "code": "ar",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Ara to Eng",
+              "url": "/ar/en/Vicon_Ara_to_Eng.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/ar/frequency.json"
+    },
+    {
+      "name_en": "Cantonese",
+      "name_native": "廣東話",
+      "code": "yue",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Cantonese Cedict Traditional",
+              "url": "/yue/en/Cantonese Cedict Traditional V2.zip"
+            },
+            {
+              "name": "CC Canto",
+              "url": "/yue/en/CC-Canto.zip"
+            },
+            {
+              "name": "粵典-Words.hk -> English",
+              "url": "/yue/en/eng_whk_popup_fs_v3.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Cantonese",
+          "code": "yue",
+          "dictionaries": [
+            {
+              "name": "粵典-Words.hk Monolingual",
+              "url": "/yue/yue/mono.yue_whk_popup_fs_v3.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_lists": [
+        {
+          "name": "Scott's Frequency List from Reddit",
+          "url": "/yue/frequency_lists/Scotts_from_Reddit.json"
+        },
+        {
+          "name": "粵典-Words.hk",
+          "url": "/yue/frequency_lists/Words.hk_Frequency_List.json"
+        }
+      ],
+      "word_lists": [
+        {
+          "name": "Standard Written Chinese",
+          "url": "/yue/word_lists/SWC_Word_List.json"
+        }
+      ]
+    },
+    {
+      "name_en": "Chinese Simplified",
+      "name_native": "汉语",
+      "code": "zh_CN",
+      "to_languages": [
+        {
+          "name_en": "Chinese Simplified",
+          "name_native": "汉语",
+          "code": "zh_CN",
+          "dictionaries": [
+            {
+              "name": "Moedict Monolingual Simplified",
+              "url": "/zh_CN/zh_CN/Moedict_Monolingual_Simplified.zip"
+            },
+            {
+              "name": "兩岸詞典",
+              "url": "/zh_CN/zh_CN/兩岸詞典.zip"
+            },
+            {
+              "name": "汉语大词典",
+              "url": "/zh_CN/zh_CN/汉语大词典.zip"
+            },
+            {
+              "name": "萌典国语辞典 (简体字)",
+              "url": "/zh_CN/zh_CN/萌典国语辞典 (简体字).zip"
+            }
+          ]
+        },
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Cedict",
+              "url": "/zh_CN/en/Cedict.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Japanese",
+          "name_native": "日本語",
+          "code": "ja",
+          "dictionaries": [
+            {
+              "name": "中日大辞典　第二版",
+              "url": "/zh_CN/ja/中日大辞典　第二版.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_lists": [
+        {
+          "name": "Beijing University",
+          "description": "Beijing Language and Culture University Corpus",
+          "url": "/zh_CN/frequency_lists/Beijing Language and Culture University Corpus.json"
+        },
+        {
+          "name": "Jieba",
+          "url": "/zh_CN/frequency_lists/Jieba.json"
+        },
+        {
+          "name": "Loach",
+          "url": "/zh_CN/frequency_lists/Loach.json"
+        },
+        {
+          "name": "Movies Ghent University",
+          "url": "/zh_CN/frequency_lists/Movies Ghent University.json"
+        },
+        {
+          "name": "The Chairman Bao",
+          "url": "/zh_CN/frequency_lists/The Chairman Bao.json"
+        }
+      ],
+      "word_lists": [
+        {
+          "name": "HSK Simplified",
+          "description": "Hanyu Shuiping Kaoshi",
+          "url": "/zh_CN/word_lists/HSK_Simplified.json"
+        },
+        {
+          "name": "New HSK Simplified",
+          "description": "New Hanyu Shuiping Kaoshi (from ~2022 onwards)",
+          "url": "/zh_CN/word_lists/New_HSK_Simplified.json"
+        }
+      ],
+      "frequency_url": "/zh_CN/frequency.json"
+    },
+    {
+      "name_en": "Chinese Traditional",
+      "name_native": "漢語",
+      "code": "zh_TW",
+      "to_languages": [
+        {
+          "name_en": "Chinese Traditional",
+          "name_native": "漢語",
+          "code": "zh_TW",
+          "dictionaries": [
+            {
+              "name": "Moedict Monolingual Traditional",
+              "url": "/zh_TW/zh_TW/Moedict_Monolingual_Traditional.zip"
+            },
+            {
+              "name": "漢語大詞典",
+              "url": "/zh_TW/zh_TW/漢語大詞典.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Cedict Traditional",
+              "url": "/zh_TW/en/Cedict_Traditional.zip"
+            }
+          ]
+        }
+      ],
+      "word_lists": [
+        {
+          "name": "HSK Traditional",
+          "description": "",
+          "url": "/zh_TW/word_lists/HSK_Traditional.json"
+        },
+        {
+          "name": "TOCFL Traditional",
+          "description": "Test of Chinese as a Foreign Language, the standardized test of Taiwanese Mandarin.",
+          "url": "/zh_TW/word_lists/migaku_tocfl_list.json"
+        }
+      ],
+      "frequency_url": "/zh_TW/frequency.json"
+    },
+    {
+      "name_en": "English",
+      "code": "en",
+      "to_languages": [
+        {
+          "name_en": "Arabic",
+          "name_native": "اللغة العربية",
+          "code": "ar",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Ara",
+              "url": "/en/ar/Vicon_Eng_to_Ara.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Chinese Simplified",
+          "name_native": "汉语",
+          "code": "zh_CN",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Simp Chi",
+              "url": "/en/zh_CN/Vicon_Eng_to_Simp_Chi.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Chinese Traditional",
+          "name_native": "漢語",
+          "code": "zh_TW",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Trad Chi",
+              "url": "/en/zh_TW/Vicon_Eng_to_Trad_Chi.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Wordset",
+              "url": "/en/en/Wordset.zip"
+            },
+            {
+              "name": "English-English Wiktionary (Test)",
+              "url": "/en/en/en-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "French",
+          "name_native": "Français",
+          "code": "fr",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Fre",
+              "url": "/en/fr/Vicon_Eng_to_Fre.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "German",
+          "name_native": "Deutsch",
+          "code": "de",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Ger",
+              "url": "/en/de/Vicon_Eng_to_Ger.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Japanese",
+          "name_native": "日本語",
+          "code": "ja",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Jp",
+              "url": "/en/ja/Vicon_Eng_to_Jp.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Korean",
+          "name_native": "한국어",
+          "code": "ko",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Kor",
+              "url": "/en/ko/Vicon_Eng_to_Kor.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portuguese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Port",
+              "url": "/en/pt/Vicon_Eng_to_Port.zip"
+            },
+            {
+              "name": "English-Portuguese Wiktionary (Test)",
+              "url": "/en/pt/en-pt-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Russian",
+          "name_native": "Русский",
+          "code": "ru",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Rus",
+              "url": "/en/ru/Vicon_Eng_to_Rus.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Spanish",
+          "name_native": "Español",
+          "code": "es",
+          "dictionaries": [
+            {
+              "name": "Vicon Eng to Spa",
+              "url": "/en/es/Vicon_Eng_to_Spa.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/en/frequency.json",
+      "conjugation_url": "/en/conjugation.json"
+    },
+    {
+      "name_en": "French",
+      "name_native": "Français",
+      "code": "fr",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Fre to Eng",
+              "url": "/fr/en/Vicon_Fre_to_Eng.zip"
+            },
+            {
+              "name": "French-English Wiktionary (Test)",
+              "url": "/fr/en/fr-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "French",
+          "name_native": "Français",
+          "code": "fr",
+          "dictionaries": [
+            {
+              "name": "French-French Wiktionary (Test)",
+              "url": "/fr/fr/fr-fr-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portuguese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "French-Portuguese Wiktionary (Test)",
+              "url": "/fr/pt/fr-pt-wiktionary.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/fr/frequency.json",
+      "conjugation_url": "/fr/conjugation.json"
+    },
+    {
+      "name_en": "German",
+      "name_native": "Deutsch",
+      "code": "de",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Ger to Eng",
+              "url": "/de/en/Vicon_Ger_to_Eng.zip"
+            },
+            {
+              "name": "German-English Wiktionary (Test)",
+              "url": "/de/en/de-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "German",
+          "name_native": "Deutsch",
+          "code": "de",
+          "dictionaries": [
+            {
+              "name": "German-German Wiktionary (Test)",
+              "url": "/de/de/de-de-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portuguese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "German-Portuguese Wiktionary (Test)",
+              "url": "/de/pt/de-pt-wiktionary.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/de/frequency.json",
+      "conjugation_url": "/de/conjugation.json"
+    },
+    {
+      "name_en": "Greek",
+      "name_native": "Ελληνικά",
+      "code": "el",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Gre to Eng",
+              "url": "/el/en/Vicon_Gre_to_Eng.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Hebrew",
+      "name_native": "עברית",
+      "code": "he",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Heb to Eng",
+              "url": "/he/en/Vicon_Heb_to_Eng.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Italian",
+      "name_native": "Italiano",
+      "code": "it",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Ita to Eng",
+              "url": "/it/en/Vicon_Ita_to_Eng.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/it/frequency.json"
+    },
+    {
+      "name_en": "Japanese",
+      "name_native": "日本語",
+      "code": "ja",
+      "to_languages": [
+        {
+          "name_en": "Dutch",
+          "name_native": "Nederlands",
+          "code": "nl",
+          "dictionaries": [
+            {
+              "name": "JMDict Dutch",
+              "url": "/ja/nl/jmdict_dutch.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "JMDict English",
+              "url": "/ja/en/jmdict_english.zip"
+            },
+            {
+              "name": "KireiCake",
+              "description": "Japanese slang",
+              "url": "/ja/en/kireicake.zip"
+            },
+            {
+              "name": "Japanese-English Wiktionary (Test)",
+              "url": "/ja/en/ja-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "French",
+          "name_native": "Français",
+          "code": "fr",
+          "dictionaries": [
+            {
+              "name": "JMDict French",
+              "url": "/ja/fr/jmdict_french.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "German",
+          "name_native": "Deutsch",
+          "code": "de",
+          "dictionaries": [
+            {
+              "name": "JMDict German",
+              "url": "/ja/de/jmdict_german.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Hungarian",
+          "name_native": "Magyar",
+          "code": "hu",
+          "dictionaries": [
+            {
+              "name": "JMDict Hungarian",
+              "url": "/ja/hu/jmdict_hungarian.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Japanese",
+          "name_native": "日本語",
+          "code": "ja",
+          "dictionaries": [
+            {
+              "name": "Japanese-Japanese Wiktionary (Test)",
+              "url": "/ja/ja/ja-ja-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portuguese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "Japanese-Portuguese Wiktionary (Test)",
+              "url": "/ja/pt/ja-pt-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Russian",
+          "name_native": "Русский",
+          "code": "ru",
+          "dictionaries": [
+            {
+              "name": "JMDict Russian",
+              "url": "/ja/ru/jmdict_russian.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Slovenian",
+          "name_native": "Slovenščina",
+          "code": "sl",
+          "dictionaries": [
+            {
+              "name": "JMDict Slovenian",
+              "url": "/ja/sl/jmdict_slovenian.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Spanish",
+          "name_native": "Español",
+          "code": "es",
+          "dictionaries": [
+            {
+              "name": "JMDict Spanish",
+              "url": "/ja/es/jmdict_spanish.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Swedish",
+          "name_native": "Svenska",
+          "code": "sv",
+          "dictionaries": [
+            {
+              "name": "JMDict Swedish",
+              "url": "/ja/sv/jmdict_swedish.zip"
+            }
+          ]
+        }
+      ],
+      "dictionaries": [
+        {
+          "name": "JMnedict",
+          "description": "Japanese names",
+          "url": "/ja/jmnedict.zip"
+        }
+      ],
+      "frequency_lists": [
+        {
+          "name": "Narou",
+          "description": "Frequency across the top 300 narou stories",
+          "url": "/ja/frequency_lists/Narou.json"
+        },
+        {
+          "name": "Netflix",
+          "description": "Frequency across the entire Netflix Japan catalog",
+          "url": "/ja/frequency_lists/Netflix.json"
+        },
+        {
+          "name": "Novel 5k",
+          "description": "Frequency across 5000 Japanese novels",
+          "url": "/ja/frequency_lists/Novel 5k.json"
+        },
+        {
+          "name": "Slice of Life",
+          "description": "Frequency across Slice of Life shows",
+          "url": "/ja/frequency_lists/Slice of Life.json"
+        },
+        {
+          "name": "Shonen",
+          "description": "Frequency across Shonen shows",
+          "url": "/ja/frequency_lists/Shonen.json"
+        },
+        {
+          "name": "Visual Novel",
+          "description": "Frequency across dozens of visual novels",
+          "url": "/ja/frequency_lists/Visual Novel.json"
+        }
+      ],
+      "word_lists": [
+        {
+          "name": "JLPT",
+          "description": "Japanese-Language Proficiency Test (JLPT) level information",
+          "url": "/ja/word_lists/JLPT.json"
+        },
+        {
+          "name": "Wanikani",
+          "description": "Wanikani level information",
+          "url": "/ja/word_lists/Wanikani.json"
+        },
+        {
+          "name": "Dialect",
+          "description": "Dialect region information",
+          "url": "/ja/word_lists/Dialect.json"
+        },
+        {
+          "name": "All",
+          "url": "/ja/word_lists/All.json"
+        }
+      ],
+      "frequency_url": "/ja/frequency.json",
+      "conjugation_url": "/ja/conjugation.json"
+    },
+    {
+      "name_en": "Korean",
+      "name_native": "한국어",
+      "code": "ko",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Kedict",
+              "url": "/ko/en/kedict.zip"
+            },
+            {
+              "name": "Kengdict",
+              "url": "/ko/en/kengdict.zip"
+            },
+            {
+              "name": "Krdict English",
+              "url": "/ko/en/krdict_en.zip"
+            },
+            {
+              "name": "Vicon Kor to Eng",
+              "url": "/ko/en/Vicon_Kor_to_Eng.zip"
+            },
+            {
+              "name": "Korean-English Wiktionary (Test)",
+              "url": "/ko/en/ko-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Korean",
+          "name_native": "한국어",
+          "code": "ko",
+          "dictionaries": [
+            {
+              "name": "Krdict Korean",
+              "url": "/ko/ko/krdict_ko.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_lists": [
+        {
+          "name": "KDrama",
+          "description": "Frequency of the top 20k words found in a large collection of KDramas",
+          "url": "/ko/frequency_lists/Viki_Kdramas_Frequency.json"
+        }
+      ],
+      "word_lists": [
+        {
+          "name": "TOPIK",
+          "description": "TOPIK level information",
+          "url": "/ko/word_lists/TOPIK_Word_List.json"
+        }
+      ],
+      "frequency_url": "/ko/frequency.json",
+      "conjugation_url": "/ko/conjugation.json"
+    },
+    {
+      "name_en": "Latin",
+      "name_native": "Latina",
+      "code": "la",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Latin to Eng",
+              "url": "/la/en/Latin_to_Eng.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Portugese",
+      "name_native": "Português",
+      "code": "pt",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Por to Eng",
+              "url": "/pt/en/Vicon_Por_to_Eng.zip"
+            },
+            {
+              "name": "Portugese-English Wiktionary (Test)",
+              "url": "/pt/en/pt-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portugese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "Portugese-Portugese Wiktionary (Test)",
+              "url": "/pt/pt/pt-pt-wiktionary.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/pt/frequency.json"
+    },
+    {
+      "name_en": "Russian",
+      "name_native": "Русский",
+      "code": "ru",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Rus to Eng",
+              "url": "/ru/en/Vicon_Rus_to_Eng.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/ru/frequency.json",
+      "conjugation_url": "/ru/conjugation.json"
+    },
+    {
+      "name_en": "Spanish",
+      "name_native": "Español",
+      "code": "es",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Vicon Spa to Eng",
+              "url": "/es/en/Vicon_Spa_to_Eng.zip"
+            },
+            {
+              "name": "Spanish-English Wiktionary (Test)",
+              "url": "/es/en/es-en-wiktionary.zip"
+            }
+          ]
+        },
+        {
+          "name_en": "Portugese",
+          "name_native": "Português",
+          "code": "pt",
+          "dictionaries": [
+            {
+              "name": "Spanish-Portugese Wiktionary (Test)",
+              "url": "/es/pt/es-pt-wiktionary.zip"
+            }
+          ]
+        }
+      ],
+      "frequency_url": "/es/frequency.json",
+      "conjugation_url": "/es/conjugation.json"
+    },
+    {
+      "name_en": "Thai",
+      "name_native": "ไทย",
+      "code": "th",
+      "to_languages": [
+        {
+          "name_en": "English",
+          "code": "en",
+          "dictionaries": [
+            {
+              "name": "Thai to Eng",
+              "url": "/th/en/Thai_to_Eng_Dictionary.zip"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

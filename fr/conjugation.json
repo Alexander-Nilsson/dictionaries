@@ -1,0 +1,2458 @@
+[
+   {
+      "dict": [
+         "er",
+         "ir",
+         "re",
+         "r"
+      ],
+      "inflected": "e"
+   },
+   {
+      "dict": [
+         "r",
+         "tir",
+         "re",
+         "voir",
+         "tre"
+      ],
+      "inflected": "s"
+   },
+   {
+      "dict": [
+         "er",
+         "ir",
+         "r",
+         "re",
+         "e",
+         "dre",
+         "on"
+      ],
+      "inflected": "ons"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "z"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "nt"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "é"
+   },
+   {
+      "dict": [
+         "er",
+         "ir",
+         "re",
+         "e",
+         "oir",
+         "dre",
+         "r"
+      ],
+      "inflected": "ais"
+   },
+   {
+      "dict": [
+         "er",
+         "ir",
+         "re",
+         "e",
+         "oir",
+         "dre",
+         "r"
+      ],
+      "inflected": "ait"
+   },
+   {
+      "dict": [
+         "er",
+         "re",
+         "e",
+         "oir",
+         "dre"
+      ],
+      "inflected": "ions"
+   },
+   {
+      "dict": [
+         "er",
+         "re",
+         "e",
+         "oir",
+         "dre"
+      ],
+      "inflected": "iez"
+   },
+   {
+      "dict": [
+         "er",
+         "ir",
+         "re",
+         "e",
+         "oir",
+         "dre",
+         "r"
+      ],
+      "inflected": "aient"
+   },
+   {
+      "dict": [
+         "er",
+         "e",
+         "r"
+      ],
+      "inflected": "ai"
+   },
+   {
+      "dict": [
+         "er",
+         "e",
+         "r"
+      ],
+      "inflected": "as"
+   },
+   {
+      "dict": [
+         "er",
+         "e",
+         "avoir",
+         "r"
+      ],
+      "inflected": "a"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "âmes"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "âtes"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "èrent"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rai"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ras"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ra"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rons"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rez"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ront"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rais"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rait"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rions"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "riez"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "raient"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "asse"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "asses"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "ât"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "assions"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "assiez"
+   },
+   {
+      "dict": [
+         "er",
+         "r"
+      ],
+      "inflected": "assent"
+   },
+   {
+      "dict": [
+         "r",
+         "tir",
+         "re",
+         "ttre"
+      ],
+      "inflected": "t"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ssons"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ssez"
+   },
+   {
+      "dict": [
+         "r",
+         "re",
+         "ire"
+      ],
+      "inflected": "ssent"
+   },
+   {
+      "dict": [
+         "ir",
+         "voir"
+      ],
+      "inflected": "i"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ssais"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ssait"
+   },
+   {
+      "dict": [
+         "r",
+         "re",
+         "ire"
+      ],
+      "inflected": "ssions"
+   },
+   {
+      "dict": [
+         "r",
+         "re",
+         "ire"
+      ],
+      "inflected": "ssiez"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ssaient"
+   },
+   {
+      "dict": [
+         "ir",
+         "re",
+         "ire",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "îmes"
+   },
+   {
+      "dict": [
+         "ir",
+         "re",
+         "ire",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "îtes"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rent"
+   },
+   {
+      "dict": [
+         "r",
+         "re",
+         "ire",
+         "s"
+      ],
+      "inflected": "sse"
+   },
+   {
+      "dict": [
+         "r",
+         "re",
+         "ire",
+         "s"
+      ],
+      "inflected": "sses"
+   },
+   {
+      "dict": [
+         "ir",
+         "re",
+         "er",
+         "ire",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "ît"
+   },
+   {
+      "dict": [
+         "ir",
+         "r",
+         "re",
+         "e",
+         "oir",
+         "dre"
+      ],
+      "inflected": "ez"
+   },
+   {
+      "dict": [
+         "ir",
+         "re",
+         "e",
+         "oir",
+         "r"
+      ],
+      "inflected": "ent"
+   },
+   {
+      "dict": [
+         "ir",
+         "re",
+         "être",
+         "r",
+         "e"
+      ],
+      "inflected": "es"
+   },
+   {
+      "dict": [
+         "dre"
+      ],
+      "inflected": "d"
+   },
+   {
+      "dict": [
+         "re",
+         "oir",
+         "ouvoir",
+         "avoir",
+         "ir"
+      ],
+      "inflected": "u"
+   },
+   {
+      "dict": [
+         "re",
+         "aire",
+         "voir",
+         "oir",
+         "endre",
+         "ettre",
+         "i"
+      ],
+      "inflected": "is"
+   },
+   {
+      "dict": [
+         "re",
+         "voir",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "it"
+   },
+   {
+      "dict": [
+         "re",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "irent"
+   },
+   {
+      "dict": [
+         "e",
+         "avoir",
+         "aire"
+      ],
+      "inflected": "ont"
+   },
+   {
+      "dict": [
+         "re",
+         "er",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "isse"
+   },
+   {
+      "dict": [
+         "re",
+         "er",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "isses"
+   },
+   {
+      "dict": [
+         "re",
+         "er",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "issions"
+   },
+   {
+      "dict": [
+         "re",
+         "er",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "issiez"
+   },
+   {
+      "dict": [
+         "re",
+         "er",
+         "aire",
+         "oir",
+         "endre",
+         "ettre"
+      ],
+      "inflected": "issent"
+   },
+   {
+      "dict": [
+         "ir",
+         "n"
+      ],
+      "inflected": "ns"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eu"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eus"
+   },
+   {
+      "dict": [
+         "avoir",
+         "ouvoir",
+         "ouloir"
+      ],
+      "inflected": "eut"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eûmes"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eûtes"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eurent"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urai"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "uras"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "ura"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urons"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urez"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "uront"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urais"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urait"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "urions"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "uriez"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "uraient"
+   },
+   {
+      "dict": [
+         "voir",
+         "yer",
+         "i"
+      ],
+      "inflected": "ie"
+   },
+   {
+      "dict": [
+         "voir",
+         "yer",
+         "i"
+      ],
+      "inflected": "ies"
+   },
+   {
+      "dict": [
+         "voir",
+         "ir"
+      ],
+      "inflected": "yons"
+   },
+   {
+      "dict": [
+         "voir",
+         "ir"
+      ],
+      "inflected": "yez"
+   },
+   {
+      "dict": [
+         "voir",
+         "enir",
+         "yer"
+      ],
+      "inflected": "ient"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eusse"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eusses"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eût"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eussions"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eussiez"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "eussent"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "j’ai"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "j’avais"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "j’eus"
+   },
+   {
+      "dict": [
+         "avoir"
+      ],
+      "inflected": "j’aurai"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "suis"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "est"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "sommes"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "sont"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "été"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "étais"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "était"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "étions"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "étiez"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "étaient"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fus"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fut"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fûmes"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fûtes"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "furent"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serai"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "seras"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "sera"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serons"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serez"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "seront"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serais"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serait"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "serions"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "seriez"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "seraient"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "sois"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "soit"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "soyons"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "soyez"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "soient"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fusse"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fusses"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fût"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fussions"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fussiez"
+   },
+   {
+      "dict": [
+         "être"
+      ],
+      "inflected": "fussent"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "vais"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "vas"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "va"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "vont"
+   },
+   {
+      "dict": [
+         "er",
+         "é"
+      ],
+      "inflected": "és"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irai"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "iras"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "ira"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irons"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irez"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "iront"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irais"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irait"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "irions"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "iriez"
+   },
+   {
+      "dict": [
+         "aller"
+      ],
+      "inflected": "iraient"
+   },
+   {
+      "dict": [
+         "ller",
+         "lloir",
+         "il"
+      ],
+      "inflected": "ille"
+   },
+   {
+      "dict": [
+         "ller",
+         "il"
+      ],
+      "inflected": "illes"
+   },
+   {
+      "dict": [
+         "ller"
+      ],
+      "inflected": "illent"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "sons"
+   },
+   {
+      "dict": [
+         "re",
+         "t"
+      ],
+      "inflected": "tes"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "sent"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "sais"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "sait"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "sions"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "siez"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "saient"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "se"
+   },
+   {
+      "dict": [
+         "re"
+      ],
+      "inflected": "ses"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erai"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "eras"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "era"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erons"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erez"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "eront"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erais"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erait"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "erions"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "eriez"
+   },
+   {
+      "dict": [
+         "aire"
+      ],
+      "inflected": "eraient"
+   },
+   {
+      "dict": [
+         "lloir",
+         "oir",
+         "ouvoir",
+         "avoir"
+      ],
+      "inflected": "ut"
+   },
+   {
+      "dict": [
+         "lloir"
+      ],
+      "inflected": "udra"
+   },
+   {
+      "dict": [
+         "lloir"
+      ],
+      "inflected": "udrait"
+   },
+   {
+      "dict": [
+         "oir",
+         "ouvoir",
+         "avoir"
+      ],
+      "inflected": "ût"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "ouloir",
+         "eu"
+      ],
+      "inflected": "eux"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uis"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "euvent"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir",
+         "ir"
+      ],
+      "inflected": "us"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "ûmes"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "ûtes"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "urent"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrai"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rras"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rra"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrons"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrez"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rront"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrais"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrait"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rrions"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rriez"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "rraient"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uisse"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uisses"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uissions"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uissiez"
+   },
+   {
+      "dict": [
+         "ouvoir"
+      ],
+      "inflected": "uissent"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "usse"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "usses"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "ussions"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "ussiez"
+   },
+   {
+      "dict": [
+         "ouvoir",
+         "avoir",
+         "oir"
+      ],
+      "inflected": "ussent"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "che"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "ches"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "chions"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "chiez"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "chent"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "chons"
+   },
+   {
+      "dict": [
+         "voir"
+      ],
+      "inflected": "chez"
+   },
+   {
+      "dict": [
+         "ir"
+      ],
+      "inflected": "yais"
+   },
+   {
+      "dict": [
+         "ir"
+      ],
+      "inflected": "yait"
+   },
+   {
+      "dict": [
+         "ir"
+      ],
+      "inflected": "yions"
+   },
+   {
+      "dict": [
+         "ir"
+      ],
+      "inflected": "yiez"
+   },
+   {
+      "dict": [
+         "ir"
+      ],
+      "inflected": "yaient"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errai"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "erras"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "erra"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errons"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errez"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "erront"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errais"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errait"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "errions"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "erriez"
+   },
+   {
+      "dict": [
+         "oir"
+      ],
+      "inflected": "erraient"
+   },
+   {
+      "dict": [
+         "ouloir"
+      ],
+      "inflected": "eulent"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drai"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "dras"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "dra"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drons"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drez"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "dront"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drais"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drait"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "drions"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "driez"
+   },
+   {
+      "dict": [
+         "loir"
+      ],
+      "inflected": "draient"
+   },
+   {
+      "dict": [
+         "ouloir"
+      ],
+      "inflected": "euille"
+   },
+   {
+      "dict": [
+         "ouloir"
+      ],
+      "inflected": "euilles"
+   },
+   {
+      "dict": [
+         "ouloir"
+      ],
+      "inflected": "euillent"
+   },
+   {
+      "dict": [
+         "ouloir"
+      ],
+      "inflected": "euillez"
+   },
+   {
+      "dict": [
+         "dre"
+      ],
+      "inflected": "nent"
+   },
+   {
+      "dict": [
+         "dre"
+      ],
+      "inflected": "ne"
+   },
+   {
+      "dict": [
+         "dre"
+      ],
+      "inflected": "nes"
+   },
+   {
+      "dict": [
+         "enir",
+         "ien"
+      ],
+      "inflected": "iens"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iennent"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "ins"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "int"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "înmes"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "întes"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "inrent"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrai"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendras"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendra"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrons"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrez"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendront"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrais"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrait"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendrions"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendriez"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "iendraient"
+   },
+   {
+      "dict": [
+         "enir",
+         "ien"
+      ],
+      "inflected": "ienne"
+   },
+   {
+      "dict": [
+         "enir",
+         "ien"
+      ],
+      "inflected": "iennes"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "insse"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "insses"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "înt"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "inssions"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "inssiez"
+   },
+   {
+      "dict": [
+         "enir"
+      ],
+      "inflected": "inssent"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çons"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çais"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çait"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çaient"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çai"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "ças"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "ça"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çâmes"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çâtes"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çasse"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çasses"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çât"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çassions"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çassiez"
+   },
+   {
+      "dict": [
+         "cer"
+      ],
+      "inflected": "çassent"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierai"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ieras"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "iera"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierons"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierez"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ieront"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierais"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierait"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ierions"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ieriez"
+   },
+   {
+      "dict": [
+         "yer"
+      ],
+      "inflected": "ieraient"
+   },
+   {
+      "dict": [
+         "eter",
+         "et"
+      ],
+      "inflected": "ète"
+   },
+   {
+      "dict": [
+         "eter",
+         "et"
+      ],
+      "inflected": "ètes"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "ètent"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterai"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èteras"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "ètera"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterons"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterez"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èteront"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterais"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterait"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èterions"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èteriez"
+   },
+   {
+      "dict": [
+         "eter"
+      ],
+      "inflected": "èteraient"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "le"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "les"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lent"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerai"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "leras"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lera"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerons"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerez"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "leront"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerais"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerait"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "lerions"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "leriez"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "leraient"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "ts"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "te"
+   },
+   {
+      "dict": [
+         "eux",
+         "eur"
+      ],
+      "inflected": "euse"
+   },
+   {
+      "dict": [
+         "eux"
+      ],
+      "inflected": "euses"
+   },
+   {
+      "dict": [
+         "el"
+      ],
+      "inflected": "els"
+   },
+   {
+      "dict": [
+         "el",
+         "eau"
+      ],
+      "inflected": "elle"
+   },
+   {
+      "dict": [
+         "el",
+         "eau"
+      ],
+      "inflected": "elles"
+   },
+   {
+      "dict": [
+         "il"
+      ],
+      "inflected": "ils"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "ers"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "ères"
+   },
+   {
+      "dict": [
+         "er"
+      ],
+      "inflected": "ère"
+   },
+   {
+      "dict": [
+         "et"
+      ],
+      "inflected": "èts"
+   },
+   {
+      "dict": [
+         "if"
+      ],
+      "inflected": "ifs"
+   },
+   {
+      "dict": [
+         "if"
+      ],
+      "inflected": "ive"
+   },
+   {
+      "dict": [
+         "if"
+      ],
+      "inflected": "ives"
+   },
+   {
+      "dict": [
+         "ou"
+      ],
+      "inflected": "oux"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nne"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nnes"
+   },
+   {
+      "dict": [
+         "ieux"
+      ],
+      "inflected": "ieuse"
+   },
+   {
+      "dict": [
+         "ieux"
+      ],
+      "inflected": "ieuses"
+   },
+   {
+      "dict": [
+         "eau"
+      ],
+      "inflected": "el"
+   },
+   {
+      "dict": [
+         "eau"
+      ],
+      "inflected": "eaux"
+   },
+   {
+      "dict": [
+         "eau",
+         "ail",
+         "al"
+      ],
+      "inflected": "aux"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rs"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "re"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "res"
+   },
+   {
+      "dict": [
+         "os"
+      ],
+      "inflected": "osse"
+   },
+   {
+      "dict": [
+         "os"
+      ],
+      "inflected": "osses"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "ds"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "de"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "des"
+   },
+   {
+      "dict": [
+         "ial"
+      ],
+      "inflected": "iale"
+   },
+   {
+      "dict": [
+         "ial"
+      ],
+      "inflected": "iaux"
+   },
+   {
+      "dict": [
+         "ial"
+      ],
+      "inflected": "iales"
+   },
+   {
+      "dict": [
+         "é"
+      ],
+      "inflected": "ée"
+   },
+   {
+      "dict": [
+         "é"
+      ],
+      "inflected": "ées"
+   },
+   {
+      "dict": [
+         "an"
+      ],
+      "inflected": "anne"
+   },
+   {
+      "dict": [
+         "an"
+      ],
+      "inflected": "annes"
+   },
+   {
+      "dict": [
+         "an"
+      ],
+      "inflected": "ans"
+   },
+   {
+      "dict": [
+         "on"
+      ],
+      "inflected": "onnes"
+   },
+   {
+      "dict": [
+         "on"
+      ],
+      "inflected": "onne"
+   },
+   {
+      "dict": [
+         "eur"
+      ],
+      "inflected": "eurs"
+   },
+   {
+      "dict": [
+         "en"
+      ],
+      "inflected": "ens"
+   },
+   {
+      "dict": [
+         "en"
+      ],
+      "inflected": "enne"
+   },
+   {
+      "dict": [
+         "en"
+      ],
+      "inflected": "ennes"
+   },
+   {
+      "dict": [
+         "teur"
+      ],
+      "inflected": "trice"
+   },
+   {
+      "dict": [
+         "teur"
+      ],
+      "inflected": "teurs"
+   },
+   {
+      "dict": [
+         "teur"
+      ],
+      "inflected": "trices"
+   }
+]
