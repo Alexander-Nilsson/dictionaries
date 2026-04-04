@@ -11,7 +11,7 @@
           "dictionaries": [
             {
               "name": "Vicon Ara to Eng",
-              "url": "/ar/en/Vicon_Ara_to_Eng.zip"
+              "url": "/ar/en/Vicon Ara to Eng.zip"
             }
           ]
         }
@@ -29,15 +29,15 @@
           "dictionaries": [
             {
               "name": "Cantonese Cedict Traditional",
-              "url": "/yue/en/Cantonese Cedict Traditional V2.zip"
+              "url": "/yue/en/Cantonese Cedict Traditional.zip"
             },
             {
               "name": "CC Canto",
-              "url": "/yue/en/CC-Canto.zip"
+              "url": "/yue/en/CC Canto.zip"
             },
             {
               "name": "粵典-Words.hk -> English",
-              "url": "/yue/en/eng_whk_popup_fs_v3.zip"
+              "url": "/yue/en/粵典-Words.hk -> English.zip"
             }
           ]
         },
@@ -47,7 +47,7 @@
           "dictionaries": [
             {
               "name": "粵典-Words.hk Monolingual",
-              "url": "/yue/yue/mono.yue_whk_popup_fs_v3.zip"
+              "url": "/yue/yue/粵典-Words.hk Monolingual.zip"
             }
           ]
         }
@@ -55,17 +55,17 @@
       "frequency_lists": [
         {
           "name": "Scott's Frequency List from Reddit",
-          "url": "/yue/frequency_lists/Scotts_from_Reddit.json"
+          "url": "/yue/frequency_lists/Scott's Frequency List from Reddit.json"
         },
         {
           "name": "粵典-Words.hk",
-          "url": "/yue/frequency_lists/Words.hk_Frequency_List.json"
+          "url": "/yue/frequency_lists/粵典-Words.hk.json"
         }
       ],
       "word_lists": [
         {
           "name": "Standard Written Chinese",
-          "url": "/yue/word_lists/SWC_Word_List.json"
+          "url": "/yue/word_lists/Standard Written Chinese.json"
         }
       ]
     },
@@ -81,7 +81,7 @@
           "dictionaries": [
             {
               "name": "Moedict Monolingual Simplified",
-              "url": "/zh_CN/zh_CN/Moedict_Monolingual_Simplified.zip"
+              "url": "/zh_CN/zh_CN/Moedict Monolingual Simplified.zip"
             },
             {
               "name": "兩岸詞典",
@@ -123,7 +123,7 @@
         {
           "name": "Beijing University",
           "description": "Beijing Language and Culture University Corpus",
-          "url": "/zh_CN/frequency_lists/Beijing Language and Culture University Corpus.json"
+          "url": "/zh_CN/frequency_lists/Beijing University.json"
         },
         {
           "name": "Jieba",
@@ -146,12 +146,12 @@
         {
           "name": "HSK Simplified",
           "description": "Hanyu Shuiping Kaoshi",
-          "url": "/zh_CN/word_lists/HSK_Simplified.json"
+          "url": "/zh_CN/word_lists/HSK Simplified.json"
         },
         {
           "name": "New HSK Simplified",
           "description": "New Hanyu Shuiping Kaoshi (from ~2022 onwards)",
-          "url": "/zh_CN/word_lists/New_HSK_Simplified.json"
+          "url": "/zh_CN/word_lists/New HSK Simplified.json"
         }
       ],
       "frequency_url": "/zh_CN/frequency.json"
@@ -168,7 +168,7 @@
           "dictionaries": [
             {
               "name": "Moedict Monolingual Traditional",
-              "url": "/zh_TW/zh_TW/Moedict_Monolingual_Traditional.zip"
+              "url": "/zh_TW/zh_TW/Moedict Monolingual Traditional.zip"
             },
             {
               "name": "漢語大詞典",
@@ -182,7 +182,7 @@
           "dictionaries": [
             {
               "name": "Cedict Traditional",
-              "url": "/zh_TW/en/Cedict_Traditional.zip"
+              "url": "/zh_TW/en/Cedict Traditional.zip"
             }
           ]
         }
@@ -191,7 +191,7 @@
         {
           "name": "HSK Traditional",
           "description": "",
-          "url": "/zh_TW/word_lists/HSK_Traditional.json"
+          "url": "/zh_TW/word_lists/HSK Traditional.json"
         },
         {
           "name": "TOCFL Traditional",
@@ -212,7 +212,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Ara",
-              "url": "/en/ar/Vicon_Eng_to_Ara.zip"
+              "url": "/en/ar/Vicon Eng to Ara.zip"
             }
           ]
         },
@@ -223,7 +223,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Simp Chi",
-              "url": "/en/zh_CN/Vicon_Eng_to_Simp_Chi.zip"
+              "url": "/en/zh_CN/Vicon Eng to Simp Chi.zip"
             }
           ]
         },
@@ -234,7 +234,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Trad Chi",
-              "url": "/en/zh_TW/Vicon_Eng_to_Trad_Chi.zip"
+              "url": "/en/zh_TW/Vicon Eng to Trad Chi.zip"
             }
           ]
         },
@@ -248,7 +248,7 @@
             },
             {
               "name": "English-English Wiktionary (Test)",
-              "url": "/en/en/en-en-wiktionary.zip"
+              "url": "/en/en/English-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -259,7 +259,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Fre",
-              "url": "/en/fr/Vicon_Eng_to_Fre.zip"
+              "url": "/en/fr/Vicon Eng to Fre.zip"
             }
           ]
         },
@@ -270,7 +270,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Ger",
-              "url": "/en/de/Vicon_Eng_to_Ger.zip"
+              "url": "/en/de/Vicon Eng to Ger.zip"
             }
           ]
         },
@@ -281,7 +281,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Jp",
-              "url": "/en/ja/Vicon_Eng_to_Jp.zip"
+              "url": "/en/ja/Vicon Eng to Jp.zip"
             }
           ]
         },
@@ -292,7 +292,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Kor",
-              "url": "/en/ko/Vicon_Eng_to_Kor.zip"
+              "url": "/en/ko/Vicon Eng to Kor.zip"
             }
           ]
         },
@@ -303,11 +303,11 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Port",
-              "url": "/en/pt/Vicon_Eng_to_Port.zip"
+              "url": "/en/pt/Vicon Eng to Port.zip"
             },
             {
               "name": "English-Portuguese Wiktionary (Test)",
-              "url": "/en/pt/en-pt-wiktionary.zip"
+              "url": "/en/pt/English-Portuguese Wiktionary (Test).zip"
             }
           ]
         },
@@ -318,7 +318,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Rus",
-              "url": "/en/ru/Vicon_Eng_to_Rus.zip"
+              "url": "/en/ru/Vicon Eng to Rus.zip"
             }
           ]
         },
@@ -329,7 +329,7 @@
           "dictionaries": [
             {
               "name": "Vicon Eng to Spa",
-              "url": "/en/es/Vicon_Eng_to_Spa.zip"
+              "url": "/en/es/Vicon Eng to Spa.zip"
             }
           ]
         }
@@ -348,11 +348,11 @@
           "dictionaries": [
             {
               "name": "Vicon Fre to Eng",
-              "url": "/fr/en/Vicon_Fre_to_Eng.zip"
+              "url": "/fr/en/Vicon Fre to Eng.zip"
             },
             {
               "name": "French-English Wiktionary (Test)",
-              "url": "/fr/en/fr-en-wiktionary.zip"
+              "url": "/fr/en/French-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -363,7 +363,7 @@
           "dictionaries": [
             {
               "name": "French-French Wiktionary (Test)",
-              "url": "/fr/fr/fr-fr-wiktionary.zip"
+              "url": "/fr/fr/French-French Wiktionary (Test).zip"
             }
           ]
         },
@@ -374,7 +374,7 @@
           "dictionaries": [
             {
               "name": "French-Portuguese Wiktionary (Test)",
-              "url": "/fr/pt/fr-pt-wiktionary.zip"
+              "url": "/fr/pt/French-Portuguese Wiktionary (Test).zip"
             }
           ]
         }
@@ -393,11 +393,11 @@
           "dictionaries": [
             {
               "name": "Vicon Ger to Eng",
-              "url": "/de/en/Vicon_Ger_to_Eng.zip"
+              "url": "/de/en/Vicon Ger to Eng.zip"
             },
             {
               "name": "German-English Wiktionary (Test)",
-              "url": "/de/en/de-en-wiktionary.zip"
+              "url": "/de/en/German-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -408,7 +408,7 @@
           "dictionaries": [
             {
               "name": "German-German Wiktionary (Test)",
-              "url": "/de/de/de-de-wiktionary.zip"
+              "url": "/de/de/German-German Wiktionary (Test).zip"
             }
           ]
         },
@@ -419,7 +419,7 @@
           "dictionaries": [
             {
               "name": "German-Portuguese Wiktionary (Test)",
-              "url": "/de/pt/de-pt-wiktionary.zip"
+              "url": "/de/pt/German-Portuguese Wiktionary (Test).zip"
             }
           ]
         }
@@ -438,7 +438,7 @@
           "dictionaries": [
             {
               "name": "Vicon Gre to Eng",
-              "url": "/el/en/Vicon_Gre_to_Eng.zip"
+              "url": "/el/en/Vicon Gre to Eng.zip"
             }
           ]
         }
@@ -455,7 +455,7 @@
           "dictionaries": [
             {
               "name": "Vicon Heb to Eng",
-              "url": "/he/en/Vicon_Heb_to_Eng.zip"
+              "url": "/he/en/Vicon Heb to Eng.zip"
             }
           ]
         }
@@ -472,7 +472,7 @@
           "dictionaries": [
             {
               "name": "Vicon Ita to Eng",
-              "url": "/it/en/Vicon_Ita_to_Eng.zip"
+              "url": "/it/en/Vicon Ita to Eng.zip"
             }
           ]
         }
@@ -491,7 +491,7 @@
           "dictionaries": [
             {
               "name": "JMDict Dutch",
-              "url": "/ja/nl/jmdict_dutch.zip"
+              "url": "/ja/nl/JMDict Dutch.zip"
             }
           ]
         },
@@ -501,16 +501,16 @@
           "dictionaries": [
             {
               "name": "JMDict English",
-              "url": "/ja/en/jmdict_english.zip"
+              "url": "/ja/en/JMDict English.zip"
             },
             {
               "name": "KireiCake",
               "description": "Japanese slang",
-              "url": "/ja/en/kireicake.zip"
+              "url": "/ja/en/KireiCake.zip"
             },
             {
               "name": "Japanese-English Wiktionary (Test)",
-              "url": "/ja/en/ja-en-wiktionary.zip"
+              "url": "/ja/en/Japanese-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -521,7 +521,7 @@
           "dictionaries": [
             {
               "name": "JMDict French",
-              "url": "/ja/fr/jmdict_french.zip"
+              "url": "/ja/fr/JMDict French.zip"
             }
           ]
         },
@@ -532,7 +532,7 @@
           "dictionaries": [
             {
               "name": "JMDict German",
-              "url": "/ja/de/jmdict_german.zip"
+              "url": "/ja/de/JMDict German.zip"
             }
           ]
         },
@@ -543,7 +543,7 @@
           "dictionaries": [
             {
               "name": "JMDict Hungarian",
-              "url": "/ja/hu/jmdict_hungarian.zip"
+              "url": "/ja/hu/JMDict Hungarian.zip"
             }
           ]
         },
@@ -554,7 +554,7 @@
           "dictionaries": [
             {
               "name": "Japanese-Japanese Wiktionary (Test)",
-              "url": "/ja/ja/ja-ja-wiktionary.zip"
+              "url": "/ja/ja/Japanese-Japanese Wiktionary (Test).zip"
             }
           ]
         },
@@ -565,7 +565,7 @@
           "dictionaries": [
             {
               "name": "Japanese-Portuguese Wiktionary (Test)",
-              "url": "/ja/pt/ja-pt-wiktionary.zip"
+              "url": "/ja/pt/Japanese-Portuguese Wiktionary (Test).zip"
             }
           ]
         },
@@ -576,7 +576,7 @@
           "dictionaries": [
             {
               "name": "JMDict Russian",
-              "url": "/ja/ru/jmdict_russian.zip"
+              "url": "/ja/ru/JMDict Russian.zip"
             }
           ]
         },
@@ -587,7 +587,7 @@
           "dictionaries": [
             {
               "name": "JMDict Slovenian",
-              "url": "/ja/sl/jmdict_slovenian.zip"
+              "url": "/ja/sl/JMDict Slovenian.zip"
             }
           ]
         },
@@ -598,7 +598,7 @@
           "dictionaries": [
             {
               "name": "JMDict Spanish",
-              "url": "/ja/es/jmdict_spanish.zip"
+              "url": "/ja/es/JMDict Spanish.zip"
             }
           ]
         },
@@ -609,7 +609,7 @@
           "dictionaries": [
             {
               "name": "JMDict Swedish",
-              "url": "/ja/sv/jmdict_swedish.zip"
+              "url": "/ja/sv/JMDict Swedish.zip"
             }
           ]
         }
@@ -618,7 +618,7 @@
         {
           "name": "JMnedict",
           "description": "Japanese names",
-          "url": "/ja/jmnedict.zip"
+          "url": "/ja/standalone/JMnedict.zip"
         }
       ],
       "frequency_lists": [
@@ -688,23 +688,23 @@
           "dictionaries": [
             {
               "name": "Kedict",
-              "url": "/ko/en/kedict.zip"
+              "url": "/ko/en/Kedict.zip"
             },
             {
               "name": "Kengdict",
-              "url": "/ko/en/kengdict.zip"
+              "url": "/ko/en/Kengdict.zip"
             },
             {
               "name": "Krdict English",
-              "url": "/ko/en/krdict_en.zip"
+              "url": "/ko/en/Krdict English.zip"
             },
             {
               "name": "Vicon Kor to Eng",
-              "url": "/ko/en/Vicon_Kor_to_Eng.zip"
+              "url": "/ko/en/Vicon Kor to Eng.zip"
             },
             {
               "name": "Korean-English Wiktionary (Test)",
-              "url": "/ko/en/ko-en-wiktionary.zip"
+              "url": "/ko/en/Korean-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -715,7 +715,7 @@
           "dictionaries": [
             {
               "name": "Krdict Korean",
-              "url": "/ko/ko/krdict_ko.zip"
+              "url": "/ko/ko/Krdict Korean.zip"
             }
           ]
         }
@@ -724,14 +724,14 @@
         {
           "name": "KDrama",
           "description": "Frequency of the top 20k words found in a large collection of KDramas",
-          "url": "/ko/frequency_lists/Viki_Kdramas_Frequency.json"
+          "url": "/ko/frequency_lists/KDrama.json"
         }
       ],
       "word_lists": [
         {
           "name": "TOPIK",
           "description": "TOPIK level information",
-          "url": "/ko/word_lists/TOPIK_Word_List.json"
+          "url": "/ko/word_lists/TOPIK.json"
         }
       ],
       "frequency_url": "/ko/frequency.json",
@@ -748,7 +748,7 @@
           "dictionaries": [
             {
               "name": "Latin to Eng",
-              "url": "/la/en/Latin_to_Eng.zip"
+              "url": "/la/en/Latin to Eng.zip"
             }
           ]
         }
@@ -765,11 +765,11 @@
           "dictionaries": [
             {
               "name": "Vicon Por to Eng",
-              "url": "/pt/en/Vicon_Por_to_Eng.zip"
+              "url": "/pt/en/Vicon Por to Eng.zip"
             },
             {
               "name": "Portugese-English Wiktionary (Test)",
-              "url": "/pt/en/pt-en-wiktionary.zip"
+              "url": "/pt/en/Portugese-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -780,7 +780,7 @@
           "dictionaries": [
             {
               "name": "Portugese-Portugese Wiktionary (Test)",
-              "url": "/pt/pt/pt-pt-wiktionary.zip"
+              "url": "/pt/pt/Portugese-Portugese Wiktionary (Test).zip"
             }
           ]
         }
@@ -798,7 +798,7 @@
           "dictionaries": [
             {
               "name": "Vicon Rus to Eng",
-              "url": "/ru/en/Vicon_Rus_to_Eng.zip"
+              "url": "/ru/en/Vicon Rus to Eng.zip"
             }
           ]
         }
@@ -817,11 +817,11 @@
           "dictionaries": [
             {
               "name": "Vicon Spa to Eng",
-              "url": "/es/en/Vicon_Spa_to_Eng.zip"
+              "url": "/es/en/Vicon Spa to Eng.zip"
             },
             {
               "name": "Spanish-English Wiktionary (Test)",
-              "url": "/es/en/es-en-wiktionary.zip"
+              "url": "/es/en/Spanish-English Wiktionary (Test).zip"
             }
           ]
         },
@@ -832,7 +832,7 @@
           "dictionaries": [
             {
               "name": "Spanish-Portugese Wiktionary (Test)",
-              "url": "/es/pt/es-pt-wiktionary.zip"
+              "url": "/es/pt/Spanish-Portugese Wiktionary (Test).zip"
             }
           ]
         }
@@ -851,7 +851,7 @@
           "dictionaries": [
             {
               "name": "Thai to Eng",
-              "url": "/th/en/Thai_to_Eng_Dictionary.zip"
+              "url": "/th/en/Thai to Eng.zip"
             }
           ]
         }
